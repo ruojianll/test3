@@ -1,4 +1,2 @@
-123
-asd
-asd
-zxc
+bug1
+bug2
